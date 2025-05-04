@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  AVPlayerDemo
+
+  Created by Md. Ashikur Rahman on 26/6/23.
+  Copyright © 2023 BJIT Ltd. All rights reserved.
+  
+*/
+
+
+"Speed" = "Speed";
+"Quality" = "Quality";
+"Share" = "Share";
+"Report" = "Report";
+"Cancel" = "Cancel";
+"Settings" = "Settings";
+"Select any" = "Select any";
+"Normal" = "Normal";
+"Auto" = "Auto";
+"Live" = "Live";
