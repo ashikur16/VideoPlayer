@@ -3,13 +3,14 @@
 This is a library of custom video player for iOS applications. This provides services for both live stream and VOD.
 
 ## Demo Video:
-/Users/BJIT/Desktop/Demo_Video.mp4
+
+https://github.com/user-attachments/assets/c57ee73f-7dfd-46a1-a3cf-8ea308fce4f5
 
 ## Screenshot:
 
-/Users/BJIT/Desktop/img-1.png
+![img-1](https://github.com/user-attachments/assets/9f32c4cf-5f61-466b-8deb-516c669620f7)
 
-/Users/BJIT/Desktop/img-2.png
+![img-2](https://github.com/user-attachments/assets/2199242f-53eb-428f-bbc4-5b8143b22043)
 
 ## Features:
 ### For Live Stream:
