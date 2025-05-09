@@ -1,6 +1,15 @@
 # VideoPlayer
 
-This is a library of custom video player for iOS applications. This provides services for both live stream and VOD. 
+This is a library of custom video player for iOS applications. This provides services for both live stream and VOD.
+
+## Demo Video:
+/Users/BJIT/Desktop/Demo_Video.mp4
+
+## Screenshot:
+
+/Users/BJIT/Desktop/img-1.png
+
+/Users/BJIT/Desktop/img-2.png
 
 ## Features:
 ### For Live Stream:
@@ -57,13 +66,13 @@ This is a library of custom video player for iOS applications. This provides ser
 - In Xcode, select your project in the Project Editor
 - Go to the Package Dependencies tab
 - press the + button
-- Enter the Package URL: https://github.com/ashik11698/VideoPlayer.git
+- Enter the Package URL: https://github.com/ashikur16/VideoPlayer.git
 - Select 'VideoPlayer'and press add package.
 
 #### Or,
 - In Xcode, go to File
 - Click on 'Add Packages...'
-- Enter the Package URL: https://github.com/ashik11698/VideoPlayer.git
+- Enter the Package URL: https://github.com/ashikur16/VideoPlayer.git
 - Select 'VideoPlayer'and press add package.
 
 
